@@ -1,172 +1,173 @@
 [
   {
-      "restaurant_id": "sXHI6Q7zg9svI73sV9956",
-      "is_open": "O",
-      "store_name": "FeedMe STATIC",
-      "image": "https://images.unsplash.com/photo-1448006531138-949dfde20011?fit=min&w=1920&h=800&q=60",
-      "store_url": "https://feedme-demo.f33d.me",
-      "location": {
-        "address": "305 Lonsdale Street, Melbourne Victoria 3000, Australia",
-        "phone": "040000000",
-        "map_data": {
-          "components": {
-            "locality": "Melbourne",
-            "postcode": "3000",
-            "place": "Melbourne",
-            "region": "Victoria",
-            "country": "Australia"
-          },
-          "lat": -37.812027,
-          "lng": 144.963298
+    "restaurant_id": "sXHI6Q7zg9svI73sV9956",
+    "is_open": "O",
+    "store_name": "FeedMe STATIC",
+    "image": "https://images.unsplash.com/photo-1448006531138-949dfde20011?fit=min&w=1920&h=800&q=60",
+    "store_url": "https://feedme-demo.f33d.me",
+    "location": {
+      "address": "305 Lonsdale Street, Melbourne Victoria 3000, Australia",
+      "phone": "040000000",
+      "map_data": {
+        "components": {
+          "locality": "Melbourne",
+          "postcode": "3000",
+          "place": "Melbourne",
+          "region": "Victoria",
+          "country": "Australia"
         },
-        "opening_hours": [
-          {
-            "day": "Monday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Tuesday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Wednesday",
-            "open": "00:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Thursday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Friday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Saturday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Sunday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          }
-        ]
+        "lat": -37.812027,
+        "lng": 144.963298
       },
-      "services": {
-        "pickup": {
-          "enabled": true
+      "opening_hours": [
+        {
+          "day": "Monday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
         },
-        "delivery": {
-          "enabled": true,
-          "deliveryFee": ""
+        {
+          "day": "Tuesday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
         },
-        "dine_in": {
-          "enabled": true
+        {
+          "day": "Wednesday",
+          "open": "00:00",
+          "close": "23:00",
+          "h24": false
         },
-        "table_booking": {
-          "enabled": true
+        {
+          "day": "Thursday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
+        },
+        {
+          "day": "Friday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
+        },
+        {
+          "day": "Saturday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
+        },
+        {
+          "day": "Sunday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
         }
-      },
-      "listing_tags": [
-        
-      ],
-      "price_tags": 0
+      ]
     },
+    "services": {
+      "pickup": {
+        "enabled": true
+      },
+      "delivery": {
+        "enabled": true,
+        "deliveryFee": ""
+      },
+      "dine_in": {
+        "enabled": true
+      },
+      "table_booking": {
+        "enabled": true
+      }
+    },
+    "listing_tags": [
+      
+    ],
+    "price_tags": 0
+  },
   {
-      "restaurant_id": "sXHI6Q7zg9svI73sV9934",
-      "is_open": "O",
-      "store_name": "FeedMe STATIC1",
-      "image": "https://images.unsplash.com/photo-1448006531138-949dfde20011?fit=min&w=1920&h=800&q=60",
-      "store_url": "https://feedme-demo.f33d.me",
-      "location": {
-        "address": "305 Lonsdale Street, Melbourne Victoria 3000, Australia",
-        "phone": "040000000",
-        "map_data": {
-          "components": {
-            "locality": "Melbourne",
-            "postcode": "3000",
-            "place": "Melbourne",
-            "region": "Victoria",
-            "country": "Australia"
-          },
-          "lat": -37.812027,
-          "lng": 144.963298
+    "restaurant_id": "sXHI6Q7zg9svI73sV9934",
+    "is_open": "O",
+    "store_name": "FeedMe STATIC1",
+    "image": "https://images.unsplash.com/photo-1448006531138-949dfde20011?fit=min&w=1920&h=800&q=60",
+    "store_url": "https://feedme-demo.f33d.me",
+    "location": {
+      "address": "305 Lonsdale Street, Melbourne Victoria 3000, Australia",
+      "phone": "040000000",
+      "map_data": {
+        "components": {
+          "locality": "Melbourne",
+          "postcode": "3000",
+          "place": "Melbourne",
+          "region": "Victoria",
+          "country": "Australia"
         },
-        "opening_hours": [
-          {
-            "day": "Monday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Tuesday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Wednesday",
-            "open": "00:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Thursday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Friday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Saturday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          },
-          {
-            "day": "Sunday",
-            "open": "09:00",
-            "close": "23:00",
-            "h24": false
-          }
-        ]
+        "lat": -37.812027,
+        "lng": 144.963298
       },
-      "services": {
-        "pickup": {
-          "enabled": true
+      "opening_hours": [
+        {
+          "day": "Monday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
         },
-        "delivery": {
-          "enabled": true,
-          "deliveryFee": ""
+        {
+          "day": "Tuesday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
         },
-        "dine_in": {
-          "enabled": true
+        {
+          "day": "Wednesday",
+          "open": "00:00",
+          "close": "23:00",
+          "h24": false
         },
-        "table_booking": {
-          "enabled": true
+        {
+          "day": "Thursday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
+        },
+        {
+          "day": "Friday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
+        },
+        {
+          "day": "Saturday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
+        },
+        {
+          "day": "Sunday",
+          "open": "09:00",
+          "close": "23:00",
+          "h24": false
         }
-      },
-      "listing_tags": [
-        
-      ],
-      "price_tags": 0
+      ]
     },
+    "services": {
+      "pickup": {
+        "enabled": true
+      },
+      "delivery": {
+        "enabled": true,
+        "deliveryFee": ""
+      },
+      "dine_in": {
+        "enabled": true
+      },
+      "table_booking": {
+        "enabled": true
+      }
+    },
+    "listing_tags": [
+      
+    ],
+    "price_tags": 0
+  },
+  
 ]
